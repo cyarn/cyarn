@@ -5,7 +5,7 @@
 //The program will also print out the meaning of the hand, namely, what makes it value, examples include high card, one pair, three of a kind, straight, flush, etc.
 
 
-package poker;									//I haven't had much experience with eclipse workplace for Java developers, but when I set this game up, it requires this package now. Not sure why
+//package poker;									//I haven't had much experience with eclipse workplace for Java developers, but when I set this game up, it requires this package now. Not sure why
 import java.io.*;								//I believe I'll need this to send text back and forth between the program and the console
 import java.util.Arrays;						//I believe I'll need this to set up arrays that I'll use later. Arrays will make a lot of things easier, but mostly sorting the cards
 
